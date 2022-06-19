@@ -14,6 +14,7 @@
     "typecheck": "turbo run typecheck"
   },
   "devDependencies": {
+    "@changesets/changelog-github": "0.4.5",
     "@changesets/cli": "2.23.0",
     "@design-system-starter/eslint-config-base": "*",
     "@yonycalsin/prettier-config-react-typescript": "1.0.1",
